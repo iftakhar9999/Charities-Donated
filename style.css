@@ -1,0 +1,44 @@
+body {
+    font-family: 'Cinzel', serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 40px;
+
+}
+
+.top-banner {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-position: center;
+
+    background-size: cover;
+    position: relative;
+
+
+}
+
+.donate-now {
+    text-align: center;
+    color: white;
+    padding-top: 3em;
+}
+
+.btn-for-all {
+    text-decoration: none;
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #FF5959;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    margin-left: 45%;
+
+
+}
