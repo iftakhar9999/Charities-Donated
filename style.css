@@ -128,11 +128,12 @@ h1 {
     top: 1595.5px;
     padding: 20px;
     padding-top: 70px;
+    border-radius: 5px;
 
 }
 
 #food {
-    background-color: #4F9DA6;
+    background-color: #b7f1f7;
     background-image: url(icons/food.png);
     background-repeat: no-repeat;
 
@@ -149,4 +150,49 @@ h1 {
     background-color: #fcbdbd;
     background-image: url(icons/Frame-1.png);
     background-repeat: no-repeat;
+}
+
+.mail-box {
+    text-align: center;
+}
+
+.mail-box p {
+    color: #707070;
+    position: absolute;
+    width: 691px;
+    left: 375px;
+}
+
+.center {
+
+    /* padding: 20px 0; */
+    padding-top: 4em;
+    padding-bottom: 4em;
+    margin-left: 300px;
+    margin-right: 300px;
+    background: #FFF4D6;
+
+    text-align: center;
+}
+
+.mail {
+    border: none;
+    width: 332px;
+    height: 38px;
+    border-radius: 5px;
+}
+
+.btn {
+    background-color: #FF5959;
+    border: none;
+    width: 132px;
+    height: 38px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 2em;
 }
